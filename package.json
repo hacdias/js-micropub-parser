@@ -1,6 +1,6 @@
 {
   "name": "@hacdias/micropub-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A micropub body parser.",
   "main": "index.js",
   "scripts": {
