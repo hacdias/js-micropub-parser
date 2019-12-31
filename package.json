@@ -1,0 +1,22 @@
+{
+  "name": "@hacdias/micropub-parser",
+  "version": "1.0.0",
+  "description": "A micropub body parser.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard ."
+  },
+  "keywords": [
+    "micropub",
+    "microformats",
+    "parser",
+    "body",
+    "request",
+    "server"
+  ],
+  "author": "Henrique Dias <hacdias@gmail.com> (https://hacdias.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
+}
