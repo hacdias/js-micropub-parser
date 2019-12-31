@@ -12,8 +12,13 @@
     "parser",
     "body",
     "request",
-    "server"
+    "server",
+    "indieweb"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hacdias/micropub-parser"
+  },
   "author": "Henrique Dias <hacdias@gmail.com> (https://hacdias.com)",
   "license": "MIT",
   "devDependencies": {
