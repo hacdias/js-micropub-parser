@@ -5,9 +5,9 @@ const parseFormEncoded = (body) => {
     properties: {},
     commands: {},
     update: {
-      replace: [],
-      add: [],
-      delete: []
+      replace: {},
+      add: {},
+      delete: {}
     }
   }
 
