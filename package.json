@@ -22,6 +22,6 @@
   "author": "Henrique Dias <hacdias@gmail.com> (https://hacdias.com)",
   "license": "MIT",
   "devDependencies": {
-    "standard": "^14.3.1"
+    "standard": "^14.3.3"
   }
 }
