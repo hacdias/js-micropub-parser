@@ -1,5 +1,7 @@
 # @hacdias/micropub-parser
 
+> ⚠️ Package no longer maintained. Please [contact me](https://hacdias.com/contact) if you want to become its maintainer.
+
 This is a simple body parser for micropub requests and it is highly based on
 [pk3-micropub](https://github.com/aaronpk/p3k-micropub), a PHP library made
 by [@aaronpk](https://github.com/aaronpk).
